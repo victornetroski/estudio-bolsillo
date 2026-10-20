@@ -1,0 +1,3 @@
+mundo.sf2 se construye con muestras de Versilian Community Sample Library (VCSL)
+https://github.com/sgossner/VCSL - licencia CC0 1.0 (dominio público).
+Puedes usarlas en videos monetizados sin pedir permiso ni dar crédito.

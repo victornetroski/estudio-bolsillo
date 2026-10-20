@@ -1,0 +1,1 @@
+import{b as e,c as r,d as a}from"./c-SVQDJJYY.js";var i=e(r());var t=e(r());var n=e(a());var o=e(a());function v({text:l,label:d="Copiar"}){let[c,s]=(0,i.useState)(!1);return(0,o.jsx)("button",{type:"button",onClick:async()=>{await navigator.clipboard.writeText(l),s(!0),setTimeout(()=>s(!1),1500)},children:c?"\xA1Copiado!":d})}export{v as a};

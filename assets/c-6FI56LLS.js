@@ -1,0 +1,1 @@
+import{b as n,c}from"./c-SVQDJJYY.js";var o=n(c()),i=(0,o.createContext)(null);function t(){let e=(0,o.useContext)(i);if(!e)throw new Error("Panel del estudio fuera de <RecordingStudio>");return e}export{i as a,t as b};
